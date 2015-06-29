@@ -1,7 +1,7 @@
 W1D1 - Git Lecture / Breakout
 =================
 
-## Topics to cover
+## Topics to cover in Breakout
 
 * Markdown (for notes)
 * Gists
