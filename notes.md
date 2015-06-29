@@ -38,12 +38,8 @@ Public repos (or even secret gists, etc) are owned by an account andi t wouldn't
 
 Forking is a github feature where you can create a server-side clone of the repo, under YOUR account. 
 
-
-
-
 * Branches
 
-
-
-
 * Command line
+
+Wouldn't it be if bla bla bla
